@@ -14,4 +14,3 @@
 <img src="img/img3.png"> <br/>
 
 This project is made in collaboration with my partner Rishabh Jain (GitHub ID: [jainrishabh23](https://github.com/jainrishabh23)).  
-**Team Members:** 2
