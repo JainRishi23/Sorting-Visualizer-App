@@ -51,14 +51,6 @@ You can interact with the sorting visualizer by visiting the live website. Once 
 
 This project was created in collaboration with [Rishabh Jain](https://github.com/jainrishabh23). Together, we worked on the design, implementation, and optimization of the sorting algorithms.
 
-## Contributions
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/jainrishi23/Sorting-Visualizer-App/issues) if you want to contribute.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust the content according to your preferences!
